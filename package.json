@@ -35,10 +35,10 @@
     "test-webpack": "bash bin/test-webpack.sh"
   },
   "dependencies": {
-    "abort-controller": "3.0.0",
     "argsarray": "0.0.1",
     "buffer-from": "1.1.1",
     "clone-buffer": "1.0.0",
+    "abort-controller": "3.0.0",
     "double-ended-queue": "2.1.0-0",
     "fetch-cookie": "0.11.0",
     "fruitdown": "1.0.2",
